@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Lottery\app\libs\gson-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="D:\Lottery\app\build\intermediates\pre-dexed\debug\gson-2.2.2_4f6ed22f126ba7d9d19cabb5ef08a79fb4aefbe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="D:\Lottery\app\build\intermediates\pre-dexed\debug\okio-1.11.0_893d7cba6fd833c845f42c6194f7ff7a73716aa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Lottery\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\Lottery\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_e93ae6b41e562143725a9a61fadb34c304eb5b15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Lottery\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\Lottery\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_08875cbbf04745c77a3bbec4a95a6dd5565a17dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\Lottery\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_320eedaa2510ba9d414e459c0d4d5f15ae00ae31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Lottery\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="D:\Lottery\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_8e547c7e6e9dfe2645f6f66932a2e2403ec34aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\Lottery\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_1efc6a5eb9346389ba0de2f5ee10a5fa311da347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Lottery\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\Lottery\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_a1790484dca28029a708f81d32a2269bce1a59b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Lottery\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="D:\Lottery\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_fa5a700d7f8d105ccf5b1bcab8da765ca4f25f79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Lottery\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Lottery\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_d59b8899b1adba1fdf01a6d93c2f557f845cd90f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Lottery\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="D:\Lottery\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_380d0b48b9cdf1110c2ccfd646f5b03ea33d0abe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Lottery\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\Lottery\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_760a98f8fc7d6ae828bd79a13fd28519f1b67908.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Lottery\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\Lottery\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_fabece0afe4cbfa8bb88482beaa2ecdb476813c0.jar" />
+    </item>
+
+</items>
